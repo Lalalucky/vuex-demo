@@ -26,7 +26,7 @@ export default {
 <style scoped lang="less">
 .login {
 	width: 100%;
-	background: url("~@/images/login-bg.gif");
-	background-size: 100% 100%;
+    background: url("~@/images/login-bg.gif");
+    background-size: 100% 100%
 }
 </style>
